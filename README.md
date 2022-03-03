@@ -35,6 +35,9 @@ python -m pip install apache-beam
 python -m apache_beam.examples.wordcount --input /path/to/inputfile --output /path/to/write/counts
 ```
 
+### Output
+![Output Image](https://raw.githubusercontent.com/pramod096/python-word-count-beam/main/images/output.png)
+
 
 
 
